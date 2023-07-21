@@ -2,7 +2,7 @@
 
 
 ## Languages and Tools
-<div align="center">
+<div align="left">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Taiwind CSS" height="25" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -17,16 +17,13 @@
 </div>
 
 ## Reach Me
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/adigun-samuel-294083247/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
 ## Github stats
-
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonance11&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+![Asonance11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonance11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 
 
