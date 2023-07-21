@@ -2,7 +2,7 @@
 
 
 ## Languages and Tools
-<div align="left">
+<div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Taiwind CSS" height="25" /></a>
@@ -18,13 +18,26 @@
 </div>
 
 ## Reach Me
-<div align="left">
+<div align="center">
 <a href="https://www.linkedin.com/in/adigun-samuel-294083247/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
 ## Github stats
-![Asonance11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonance11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+
+
+
+
+  
+  ![Asonance11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonance11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+  
+</div>
+
 
 
 
