@@ -25,7 +25,7 @@
 ## Github stats
 
 <div align="center">
-![Asonance11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonance11&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  ![Asonance11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonance11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 
